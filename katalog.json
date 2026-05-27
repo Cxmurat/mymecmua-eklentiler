@@ -1,0 +1,18 @@
+{
+  "uygulama": {
+    "surum": "1.0.0",
+    "notlar": "İlk sürüm.",
+    "indirme_url": "https://github.com/Cxmurat/mymecmua-eklentiler/releases/download/v1.0.0/mymecmua.apk",
+    "zorunlu": false
+  },
+  "eklentiler": [
+    {
+      "id": "haberler-eklentisi",
+      "ad": "Haberler",
+      "surum": "1.3.0",
+      "aciklama": "Duplicate haber düzeltmesi, 7 saniyelik ticker animasyonu, fotoğraflı/fotoğrafsız layout, geniş kartlar.",
+      "indirme_url": "https://github.com/Cxmurat/mymecmua-eklentiler/releases/download/eklenti-haberler-v1.3.0/haberler.myex",
+      "zorunlu": false
+    }
+  ]
+}
