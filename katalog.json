@@ -9,9 +9,9 @@
     {
       "id": "haberler-eklentisi",
       "ad": "Haberler",
-      "surum": "1.4.0",
-      "aciklama": "Geniş kapak kartları, 10 sn başlık geçişi, alttan-yukarı soluk-canlı animasyon, fotoğrafsız büyük puntolar, profil üst bar, çift feed yenileme engeli.",
-      "indirme_url": "https://github.com/Cxmurat/mymecmua-eklentiler/releases/download/eklenti-haberler-v1.4.0/haberler.myex",
+      "surum": "1.5.0",
+      "aciklama": "Yerlesim modlari (2x2, karmasik, yarim ekran, liste), akis ici arama, sifreli .myex paketi, zamanlayici ve karmaşık haber kartlari.",
+      "indirme_url": "https://github.com/Cxmurat/mymecmua-eklentiler/releases/download/eklenti-haberler-v1.5.0/haberler.myex",
       "zorunlu": false
     }
   ]
