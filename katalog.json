@@ -10,7 +10,7 @@
       "id": "haberler-eklentisi",
       "ad": "Haberler",
       "surum": "1.5.0",
-      "aciklama": "Yerlesim modlari (2x2, karmasik, yarim ekran, liste), akis ici arama, sifreli .myex paketi, zamanlayici ve karmaşık haber kartlari.",
+      "aciklama": "Yerleşim modları (2×2, karmaşık, yarım ekran, liste), akış içi arama, şifreli .myex paketi, zamanlayıcı ve karmaşık haber kartları.",
       "indirme_url": "https://github.com/Cxmurat/mymecmua-eklentiler/releases/download/eklenti-haberler-v1.5.0/haberler.myex",
       "zorunlu": false
     }
